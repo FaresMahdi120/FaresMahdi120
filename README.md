@@ -1,5 +1,6 @@
 ### YOOO WELCOME ;)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ### **✨ABOUT**
   A 19 Years old Algerian Java developer for 2 years and 1 year on c# (yea pretty bad but i'm fast learner ) , like coding minecraft plugins cuz that fun yea... no one thin.. alright nvm.
