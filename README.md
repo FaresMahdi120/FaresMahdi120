@@ -10,5 +10,5 @@
 **Working on ?**
   I really just looking for servers (mc) to work on ;)
 **Anything else ?**
-  Nope hope you like my github and my plugins ;)
+  Nope hope you like my github and my plugins ;).
 
