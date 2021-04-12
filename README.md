@@ -12,8 +12,5 @@
   Yea i'm not that good at making 100 projects so let say i have a spigot page ;)
    https://www.spigotmc.org/resources/authors/faresmahdi.1113508/
 ### **🤖Working on ?**
-  i'm working on BackPack system plugin ;))
-  I really just looking for servers (mc) to work on ;)
-### **Anything else ?**
-  Nope hope you like my github and my plugins ;).
+  Original Mc :D
 
