@@ -1,5 +1,5 @@
 # FaresMahdi 
-Java & c# developer :D
+Java & JavaScript & c# developer :D
 # my latest work :
  Super Items is a Minecraft plugin , is a plugin that add new items with super abilities | i'm working on it for 1 month so far and i shifted the work and updates to 1 per week , cuz some issues.
  You can learn more on https://www.spigotmc.org/resources/superitems-custom-messages-gui-abilities-and-more.89911/
