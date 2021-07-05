@@ -9,11 +9,14 @@
  #### Register/login is a safety plugin that asure thye safty of your players , each player need to Register if they did not have an account before and login every time they join the server.You can learn more and the download link is here : [Register/Login Plugin](https://www.spigotmc.org/resources/register-login.91401//)
 
  
-  ![superitems_base](https://user-images.githubusercontent.com/80583353/114924904-beb2b880-9e2e-11eb-9cb9-34cbf996b897.png)
 # 🦠 Most used Language [Java]
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresMahdi120&langs_count=5&theme=tokyonight)]()
+
+
 # 🦠 Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FaresMahdi120&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 # trophies [the only throphies i got in my life :(]
 [![trophy](https://github-profile-trophy.vercel.app/?username=FaresMahdi120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #### And your done <3 , check, out my plugins ? 
