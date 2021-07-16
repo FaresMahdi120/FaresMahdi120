@@ -1,9 +1,5 @@
 # More Info
   Hello again its me Fares , i code in java , java script for the most of time , and i tried c# before and learn a lot of it , i make (silly) websites and code minecraft plugins , mods its amazing and i feel great hen i finish a plugin <3.
-# Working on ?
-  ### BackPack Plugin [Discontinued]
-  ### [SuperItems Plugin](https://www.spigotmc.org/resources/superitems-custom-messages-gui-abilities-and-more.89911/) [Discontinued].
-  ### [Register/Login Plugin](https://www.spigotmc.org/resources/register-login.91401//) [Discontinued].
 # Projects :
  #### Kits+ [Not released yet!]
 
