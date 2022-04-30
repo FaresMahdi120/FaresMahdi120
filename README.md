@@ -1,7 +1,5 @@
 # More Info
-  Hello again its me Fares , i code in java , java script for the most of time , and i tried c# before and learn a lot of it , i make (silly) websites and code minecraft plugins , mods its amazing and i feel great hen i finish a plugin <3.
-# Projects :
- #### Kits+ [Not released yet!]
+  Hello again its me Fares , i code in java.
 
  
 # 🦠 Most used Language [Java]
