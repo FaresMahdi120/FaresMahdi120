@@ -3,7 +3,7 @@
 
  
 # 🦠 Most used Language [Java]
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresMahdi120&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresMahdi120)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🦠 Github stats
