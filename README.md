@@ -12,11 +12,3 @@
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=FaresMahdi120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-# Projects:
-## Currenty corking on an EventManager
-## Currenty corking on a Core plugin for Cornage Network
-
-# What to achieve on 2023:
-## Learn web development
-## Learn python
