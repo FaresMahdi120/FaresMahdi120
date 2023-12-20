@@ -1,6 +1,5 @@
 # Who i'm?
-### Hello my name is Fares Mahdi, i'm a Java Developer, currently working in CAAT as a Senior Engineer since 2022, i worked as a  Minecraft Network Administrator since 2015.
-### I also develop Plugins, Mods, and skripts and have a great knowlage in Databases, and lugins in general. Happy to meet you :D! 
+### Hello my name is Fares Mahdi, i'm a Java Developer, currently working in C.A.A.T as a Technician Superior since 2022, i worked as a  Minecraft Network Administrator since 2015.
  
 # 🦠 Most used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaresMahdi120)](https://github.com/anuraghazra/github-readme-stats)
