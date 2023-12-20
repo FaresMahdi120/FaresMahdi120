@@ -11,3 +11,8 @@
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=FaresMahdi120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# Comissions for plugins?
+## Contact me here:
+### Discord: faresmahdi120
